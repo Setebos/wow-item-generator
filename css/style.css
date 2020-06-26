@@ -1,0 +1,60 @@
+.title-background {
+	width: 100%;
+	background-image: url("../img/banner.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	display: flex; 
+	justify-content: center;
+	align-items: center;
+	min-height: 320px;
+}
+
+h1 {
+	text-align: center;
+	font-size: 4em;
+	color: white;
+	font-weight: bold;
+}
+
+#status-form {
+	margin: 2em;
+}
+
+h2 {
+	text-align: center;
+}
+
+.container.status {
+	text-align: center;
+}
+
+#wow-item {
+	text-align: center;
+	font-size: xx-large;
+	margin-top: 3vh;
+	margin-bottom: 3vh;
+}
+
+.color-common {
+	color: #9D9D9D;
+}
+
+.color-uncommon {
+	color: #1EFF00;
+}
+
+.color-rare {
+	color: #0070FF;
+}
+
+.color-epic {
+	color: #A335EE;
+}
+
+.color-legendary {
+	color: #FF8011;
+}
+
+.color-artifact {
+	color: #DAAE64;
+}
